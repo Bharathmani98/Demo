@@ -1,5 +1,8 @@
-class MyClass{
-    public static void main(String[] args){
-      System.out.println("hello");
-    }
+
+class Demo {
+  public static void main (String[] args){
+    String name="mani";
+
+    System.out.println(name);
+  }
 }
